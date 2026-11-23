@@ -1,0 +1,6 @@
+{
+  "name": "VidyaPath",
+  "description": "EdTech learning app for Class 1 to 12 Indian students featuring Math, Science, Hindi, and English study notes, interactive quizzes, and AI Doubt Solver with text chat and photo step-by-step solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

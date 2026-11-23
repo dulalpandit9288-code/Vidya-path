@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VidyaPath</string>
+    <string name="tagline_india">Class 1 to 12 • NCERT &amp; CBSE Companion</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_doubts">AI Doubts</string>
+    <string name="back_button_desc">Navigate back</string>
+    <string name="hero_banner_desc">Students learning Math and Science illustration</string>
+    <string name="photo_scanner_desc">Smartphone scanning math question for step-by-step AI solution</string>
+</resources>
